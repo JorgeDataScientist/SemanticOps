@@ -1,97 +1,109 @@
-# SemanticOps  
+# <a href="https://jorgedatascientist.github.io/SemanticOps/" target="_blank">SemanticOps</a>
 ### El marco operativo para gobernar y automatizar el significado en la era de la IA
 
-Bienvenido al repositorio oficial del proyecto **SemanticOps**, el marco operativo que define 
-cómo gestionar, versionar y automatizar el significado dentro de organizaciones, sistemas 
-inteligentes y ecosistemas de datos modernos.
-
-SemanticOps propone la siguiente capa evolutiva después de DevOps, DataOps y MLOps:  
-la **capa del entendimiento**, donde el conocimiento deja de ser documentación y se convierte 
-en infraestructura viva, gobernada y explicable.
+Bienvenido al repositorio oficial de 
+<strong><a href="https://jorgedatascientist.github.io/SemanticOps/" target="_blank">SemanticOps</a></strong>, 
+el marco operativo que define cómo gestionar, versionar y automatizar el significado en sistemas, 
+organizaciones y ecosistemas de IA.
 
 Este repositorio contiene el código fuente y la estructura del sitio web oficial:
-➡️ **https://jorgedatascientist.github.io/SemanticOps/**
+
+➡️ <a href="https://jorgedatascientist.github.io/SemanticOps/" target="_blank">
+https://jorgedatascientist.github.io/SemanticOps/
+</a>
 
 ---
 
 ## 🧭 ¿Qué es SemanticOps?
 
-**SemanticOps es el marco operativo que permite a las organizaciones gobernar, versionar y 
-mantener coherencia en el significado** a lo largo del tiempo, integrando:
+<strong><a href="https://jorgedatascientist.github.io/SemanticOps/" target="_blank">SemanticOps</a></strong> 
+es el marco operativo que permite:
 
-- datos,  
-- modelos de IA,  
-- procesos de negocio,  
-- agentes cognitivos,  
-- y conocimiento humano.
+- gobernar significado,  
+- versionar conocimiento,  
+- mantener coherencia semántica viva,  
+- integrar inteligencia humana e inteligencia artificial,  
+- y operar el entendimiento como infraestructura.
 
-El objetivo es resolver un problema histórico:
+El propósito del marco es resolver una brecha histórica:
+
 > Las organizaciones operan datos y modelos, pero no operan el entendimiento.
 
-SemanticOps introduce una arquitectura donde:
-
-- la semántica se convierte en infraestructura,  
-- el conocimiento se versiona como software,  
-- la IA ayuda a mantener coherencia,  
-- y el significado deja de ser subjetivo o fragmentado.
+SemanticOps define la nueva capa operativa:  
+**la capa del significado gobernado**.
 
 ---
 
 ## 📘 Documento Fundacional
 
-El marco está definido en el  
-➡️ **[White Paper Fundacional de SemanticOps](https://jorgedatascientist.github.io/SemanticOps/)**
+El marco está detallado en el White Paper oficial:
 
-Este documento establece:
+➡️ <a href="https://jorgedatascientist.github.io/SemanticOps/" target="_blank">
+White Paper Fundacional — SemanticOps
+</a>
 
-- la filosofía del marco  
-- su arquitectura  
-- capas cognitivas  
-- el SemanticOps Loop  
-- principios rectores  
-- roles  
-- proyección 2026–2030  
+Incluye:
+
+- Filosofía del marco  
+- Arquitectura  
+- El SemanticOps Loop  
+- Roles y funciones  
+- Gobernanza del significado  
+- Proyección 2026–2030  
 
 ---
 
 ## 🌐 Sitio Web Oficial
 
-Sitio web del proyecto:  
-➡️ **https://jorgedatascientist.github.io/SemanticOps/**
+Sitio web principal:
 
-Incluye:
-
-- Presentación general  
-- Arquitectura  
-- Ciclo operativo  
-- Casos de uso  
-- Fundamentos del marco  
+➡️ <a href="https://jorgedatascientist.github.io/SemanticOps/" target="_blank">
+https://jorgedatascientist.github.io/SemanticOps/
+</a>
 
 ---
 
 ## 📚 SemanticOps Lexicon
 
-El Lexicon oficial con definiciones formales, versiones y gobernanza del significado está en:
+El Lexicon oficial está disponible en:
 
-➡️ **https://jorgedatascientist.github.io/SemanticOps-Lexicon/**  
-➡️ Repositorio: **https://github.com/jorgedatascientist/SemanticOps-Lexicon**
+➡️ <a href="https://jorgedatascientist.github.io/SemanticOps-Lexicon/" target="_blank">
+SemanticOps Lexicon — Sitio Oficial
+</a>
 
-El Lexicon es un estándar abierto y vivo que evoluciona bajo gobernanza de la comunidad — no dentro de este repositorio.
+Repositorio del Lexicon:
+
+➡️ <a href="https://github.com/jorgedatascientist/SemanticOps-Lexicon" target="_blank">
+https://github.com/jorgedatascientist/SemanticOps-Lexicon
+</a>
+
+Este repositorio (SemanticOps-Lexicon) contiene:
+
+- definiciones oficiales,  
+- principios rectores,  
+- plantillas de contribución,  
+- procesos de gobernanza,  
+- historial de versiones,  
+- y conceptos en evolución.
 
 ---
 
-## 🧩 Alcance de este repositorio
+## 🧩 Alcance de este repositorio (SemanticOps)
 
-Este repositorio contiene únicamente:
+Este repositorio contiene:
 
-- El sitio web principal de SemanticOps  
-- Arquitectura conceptual  
+- El sitio web oficial de SemanticOps  
 - Secciones informativas  
-- White Paper Fundacional  
-- Recursos visuales y estáticos  
+- Arquitectura general  
+- Contenido del manifiesto  
+- Recursos visuales  
+- Estructura del sitio estático
 
-Todo lo relacionado con definiciones, conceptos, principios o gobernanza semántica se maneja exclusivamente en:
+**No** contiene definiciones semánticas del marco.  
+Toda contribución conceptual debe realizarse en:
 
-👉 **SemanticOps-Lexicon**
+➡️ <a href="https://github.com/jorgedatascientist/SemanticOps-Lexicon" target="_blank">
+SemanticOps-Lexicon
+</a>
 
 ---
